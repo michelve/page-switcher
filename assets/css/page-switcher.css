@@ -1,0 +1,106 @@
+/**
+ * @link              http://velismichel.com
+ * @since             1.0.0
+ * @package           page_Switcher
+ * @author            Michel Velis
+ * @website           http://velismichel.com
+ */
+
+.clear  {
+    clear: both;
+}
+.alignleft.actions span.select2.select2-container.select2-container--default {
+  width: 260px !important;
+  clear: both;
+  float: none;
+  position: absolute;
+  top: 62px;
+  right: 41px;
+  top: 45px;
+}
+.post-type-page .search-box, .post-type-post .search-box {
+    display: none !important
+}
+#posts-filter span.select2-dropdown.select2-dropdown--below,
+#posts-filter .select2-container--default .select2-selection--single,
+#posts-filter span.select2.select2-container.select2-container--default.select2-container--below  {
+  width: 282px !important;
+}
+.alignleft.actions select.page-switcher-select.form-control.select2-hidden-accessible, .select2.select2-container.select2-container--default.select2-container--below.select2-container--open, .select2.select2-container.select2-container--default.select2-container--below.select2-container--focus {
+  width: 260px !important;
+  clear: both;
+  float: none;
+  position: absolute;
+  top: 62px;
+  right: 41px;
+  top: 45px;
+}
+.alignleft.actions span.select2-dropdown.select2-dropdown--below, 
+.alignleft.actions .select2-container--default .select2-selection--single, 
+.alignleft.actions span.select2.select2-container.select2-container--default.select2-container--below {
+  width: 283px !important;
+}
+#page-switcher .inside {
+    padding: 15px 0 15px 10px;
+    margin: 9px 0;
+}
+ul#select2-page-dropdown-vv-results {
+    padding: 9px;
+}
+#page-switcher .handlediv {
+    color: white;
+}
+#page-switcher p {
+    padding: 0;
+    margin: 0 0 7px 0;
+    font-size: 12px;
+    line-height: 17px;
+    color: #7f8c8d;
+}
+#page-switcher {
+    border-radius: 5px;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 26px;
+    position: relative;
+    top: -13px;
+    right: -222px;
+    width: 20px;
+}
+.select2-container--default .select2-selection--single .select2-selection__placeholder {
+    line-height: 20px;
+}
+.select2-container--default .select2-selection--single {
+    height: 42px;
+    padding: 4px 12px;
+    font-family: Lato, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.467;
+    outline: none;
+    color: #34495e;
+    border: 2px solid #bdc3c7;
+    border-radius: 6px;
+    box-shadow: none;
+    -webkit-transition: border .25s linear, color .25s linear, background-color .25s linear;
+    transition: border .25s linear, color .25s linear, background-color .25s linear;
+}
+.select2-container--default .select2-selection--single:hover {
+    color: #2ecc71;
+    border-color: #2ecc71;
+    box-shadow: none;
+}
+#page-switcher h3 {
+    color: #fff;
+    background-color: #3498db;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+span.select2-dropdown.select2-dropdown--below,
+.select2-container--default .select2-selection--single,
+span.select2.select2-container.select2-container--default.select2-container--below {
+    width: 258px !important;
+}
