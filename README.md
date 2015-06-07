@@ -13,3 +13,13 @@ Easily change or switch the current page to another pages from the wordpress edi
 Install the plugin into the plugins/page-switcher directory, and activate.
 From the post edit screen, above the \"Publish\" button is the \"Post Type\" interface.
 Change post types as needed.
+
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/michelve/page-switcher/master/screenshot1.png"/>
+
+<img src="https://raw.githubusercontent.com/michelve/page-switcher/master/screenshot2.png"/>
+
+<img src="https://raw.githubusercontent.com/michelve/page-switcher/master/screenshot3.png"/>
+
+<img src="https://raw.githubusercontent.com/michelve/page-switcher/master/screenshot3.png"/>
