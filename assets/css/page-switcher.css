@@ -6,43 +6,14 @@
  * @website           http://velismichel.com
  */
 
-.clear  {
-    clear: both;
-}
-.alignleft.actions span.select2.select2-container.select2-container--default {
-  width: 260px !important;
-  clear: both;
-  float: none;
-  position: absolute;
-  top: 62px;
-  right: 41px;
-  top: 45px;
-}
-.post-type-page .search-box, .post-type-post .search-box {
-    display: none !important
-}
-#posts-filter span.select2-dropdown.select2-dropdown--below,
-#posts-filter .select2-container--default .select2-selection--single,
-#posts-filter span.select2.select2-container.select2-container--default.select2-container--below  {
-  width: 282px !important;
-}
-.alignleft.actions select.page-switcher-select.form-control.select2-hidden-accessible, .select2.select2-container.select2-container--default.select2-container--below.select2-container--open, .select2.select2-container.select2-container--default.select2-container--below.select2-container--focus {
-  width: 260px !important;
-  clear: both;
-  float: none;
-  position: absolute;
-  top: 62px;
-  right: 41px;
-  top: 45px;
-}
-.alignleft.actions span.select2-dropdown.select2-dropdown--below, 
-.alignleft.actions .select2-container--default .select2-selection--single, 
-.alignleft.actions span.select2.select2-container.select2-container--default.select2-container--below {
-  width: 283px !important;
-}
+
 #page-switcher .inside {
     padding: 15px 0 15px 10px;
     margin: 9px 0;
+}
+.tablenav .actions {
+    overflow: visible !important;
+    margin-bottom: 15px;
 }
 ul#select2-page-dropdown-vv-results {
     padding: 9px;
