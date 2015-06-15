@@ -50,7 +50,7 @@ function content_switcher_func_editor(){
          ?>
         </select>
         <script>
-            $(".page-switcher-select").select2({
+            jQuery(".page-switcher-select").select2({
               placeholder: "Select/Search a Page",
               allowClear: true
             });
